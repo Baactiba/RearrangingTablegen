@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RearrangingTablegen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RearrangingTablegen_jar</output-path>
+    <root id="archive" name="RearrangingTablegen.jar">
+      <element id="module-output" name="RearrangingTablegen" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/it/unimi/dsi/fastutil/8.5.16/fastutil-8.5.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

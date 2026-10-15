@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/2432-2k-comp" />
+      <excludeFolder url="file://$MODULE_DIR$/2432t-2k" />
+      <excludeFolder url="file://$MODULE_DIR$/2432t-2k-comp" />
+      <excludeFolder url="file://$MODULE_DIR$/2432t-2k-phoenix" />
+      <excludeFolder url="file://$MODULE_DIR$/max16" />
+      <excludeFolder url="file://$MODULE_DIR$/max32" />
+      <excludeFolder url="file://$MODULE_DIR$/max8" />
+      <excludeFolder url="file://$MODULE_DIR$/GH11_Ce" />
+      <excludeFolder url="file://$MODULE_DIR$/GH11_Co" />
+      <excludeFolder url="file://$MODULE_DIR$/GH11_LE" />
+      <excludeFolder url="file://$MODULE_DIR$/GH11_SE" />
+      <excludeFolder url="file://$MODULE_DIR$/GHXLB" />
+      <excludeFolder url="file://$MODULE_DIR$/GHZangief" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="it.unimi.dsi.fastutil" level="project" />
+  </component>
+</module>
